@@ -1,0 +1,13 @@
+cd
+mkdir
+rm -r
+ls
+cat
+vi
+touch
+git add
+git push
+git pull
+git checkout
+git commit
+
